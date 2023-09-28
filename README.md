@@ -1,0 +1,2 @@
+# Big_data_P05_NYC-Open-Parking-And-Camera-Violations
+"Open Parking and Camera Violations" has been provided since January 11, 2016, and the data set will be continuously updated every day. The provided data set has 81 million rows and 19 columns, and the total data volume is 20 GB, which is a very massive amount of data. Dataset NYC Open Data website - https://data.cityofnewyork.us/view/i4p3-pe6a
